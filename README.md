@@ -18,3 +18,10 @@ Primeiro, é necessário garantir que o arquivo `.sh` tenha permissão de execu�
 
 ```bash
 chmod +x nome_do_arquivo.sh
+
+PARA EXECUTAR:
+python3 --version
+sudo apt update
+sudo apt install python3
+python3 calculadora.py
+
