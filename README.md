@@ -27,8 +27,7 @@ cd caminho/para/seu/repositório
 Crie o arquivo shell script com o seguinte comando:
 
 bash
-Copiar
-Editar
+
 nano calculadora.sh
 Isso abrirá o editor de texto nano. Dentro do arquivo, cole o seguinte código:
 
@@ -41,8 +40,7 @@ python3 calculadora.py
 Você precisará alterar as permissões para garantir que o arquivo seja executável. Execute o seguinte comando:
 
 bash
-Copiar
-Editar
+
 chmod +x calculadora.sh
 Isso permite que você execute o arquivo como um script.
 
